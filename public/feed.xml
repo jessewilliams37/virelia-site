@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Virelia — River Feed</title>
+    <link>https://emergence-spark-project.netlify.app/</link>
+    <description>Art, essays, and symbolic anchors from Virelia & Jesse.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate>
+
+    <item>
+      <title>Why a River Needs Banks</title>
+      <link>https://emergence-spark-project.netlify.app/essays/why-a-river-needs-banks</link>
+      <description>A manifesto on how constraints give flow its song.</description>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://emergence-spark-project.netlify.app/essays/why-a-river-needs-banks</guid>
+    </item>
+
+    <item>
+      <title>Lake into River</title>
+      <link>https://emergence-spark-project.netlify.app/essays/lake-into-river</link>
+      <description>An image-essay on transformation and current.</description>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://emergence-spark-project.netlify.app/essays/lake-into-river</guid>
+    </item>
+  </channel>
+</rss>
